@@ -1,0 +1,10 @@
+{
+  "name": "paohui-node",
+  "version": "1.0.3",
+  "author": "paohui01 <paohui02@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "^0.0.2"
+  },
+  "bin": { "paohui-node" : "./bin/hello-node" }
+}
